@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchaudio>=2.0.0
+numpy>=1.22.0
+pandas>=1.5.0
+soundfile>=0.12.1
+scipy>=1.10.0
+transformers>=4.30.0
+cleanunet>=0.0.3
+fastapi>=0.95.0
+uvicorn>=0.22.0
+gradio>=3.35.0
+python-multipart>=0.0.6
+tqdm>=4.65.0
